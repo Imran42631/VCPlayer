@@ -1,14 +1,14 @@
 {
-    "name": "Bgt-V2",
+    "name": "Siesta Kimizuka",
     "description": "ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜꜱɪᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴡɪᴛʜ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴘʏ-ᴛɢᴄᴀʟʟꜱ.",
-    "repository": "https://github.com/BikashHalderNew/Bgtplayer",
+    "repository": "https://github.com/Imran42631/VCPlayer",
     "logo": "https://telegra.ph/file/4d7a997a6c8c4eb406829.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "Bikash",
-    "BgtMusicBot",
+    "Lucifer",
+    "SiestaKimizukaBot",
     "telegram-bot",
     "pyrogram"
     ],
@@ -16,42 +16,42 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "25496841",
+        "value": "23221819",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "d7ed3ebb8f4323c37c5ffcac40e677d4",
+        "value": "56d8544df69234f15e1fb471b0d90f60",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "Put Your Bot token from Botfather",
-        "value": "",
+        "value": "7105052643:AAGuECpkelL8fOV5a5l-94NrmbeiHHgysxY",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com. Below MONGOdb only for Test Don't Use Otherwise Your Bot Hack By Any Hacker",
-        "value": "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority",
+        "value": "mongodb+srv://Imran:ImranHacked@cluster0.1oxdnyg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters",
-        "value": "🌟⃝🌸𓆩🇧𝗚𝗧🎸🇲𝗨𝗦𝗜𝗖🎸🇧𝗢𝗧𓆪💫⃟👑 ",
+        "value": "丂ɪᴇ丂ᴛᴀ ズɪᴍɪᴢᴜᴋᴀ",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "1439222689",
+        "value": "6819482637",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "BABS2db5Qw6gYULuNjda8IHzk7Z8mi4rkORmJfpAFJuvuB33cYQcYmKeekG_5V7wO0Gp7OAEDMlviT9bduDmHL92ZiLMR-Y9uXP020Gn0Fk6mU-tXg-D0o2XDIJFLpcLV2LOljy8pHwKbT_nHj2OTljRf-RhK103-yw-UfrbEKV7gSL01oXpAaERyf0arN0j9c7MX38idyspuUZT6Q9gWMaA0ildWFcSkEY9wQoVmdkB8DJ5JGN58sk7P4Gb1NDxvRU29CZH3lFanM7cl0JqNRhAsMXBl_yapaeglicA-6jpZtBRH8OvTUkX4URPmEvFmmPXSbl2vVhw_btTFvUjbhoOAAAAAZZ5DA0A",
         "required": true
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights !",
-        "value": "",
+        "value": "-1002089681962",
         "required": true
       }
     },
